@@ -12,8 +12,8 @@ class CustomDrawer extends StatelessWidget {
             currentAccountPicture: CircleAvatar(
               backgroundColor: Colors.white,
             ),
-            accountEmail: Text("jacobaraujo7@gmail.com"),
-            accountName: Text("Jacob Moura"),
+            accountEmail: Text("contato201@gmail.com"),
+            accountName: Text("Andre Kubotsu"),
           ),
           ListTile(
             title: Text("Item 1"),
